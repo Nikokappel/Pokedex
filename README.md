@@ -1,1 +1,3 @@
 # Pokedex
+
+Pokedexet virker nu
